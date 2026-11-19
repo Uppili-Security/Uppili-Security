@@ -1,46 +1,34 @@
-<div align="center">
+### Hi, I'm Uppili 👋
 
-# Hi there, I'm Uppili 👋
-### Application Security Engineer | DevSecOps | Cloud & AI Security
+Application Security Engineer with 8+ years of experience building scalable security programs across cloud-native platforms, web applications, and APIs in high-growth FinTech and AdTech environments.
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Email](https://shields.io)](mailto:uppilis17@gmail.com)
-
-*Securing code from commit to cloud — helping fast-moving engineering teams build resilient software without slowing down.*
-
-</div>
+I focus on turning security from a manual bottleneck into a seamless part of how engineers build—combining secure architecture, automated CI/CD guardrails, and AI-driven developer tooling so teams can ship quickly and safely.
 
 ---
 
-### 🛡️ About Me
-- 🔭 **What I Do:** Application Security Engineer with **8+ years of experience** embedding security across the SSDLC in large-scale **FinTech** and **AdTech** cloud-native environments.
-- 🤖 **AI & Automation:** Built RAG-based internal AI Security Advisory bots and automated triage pipelines (`n8n`, `Jira`, `Python`) to eliminate alert fatigue and scale security guidance.
-- 🎯 **Core Focus:** Threat Modeling, API & Web Penetration Testing, CI/CD Security Automation (`SAST`/`DAST`/`SCA`), Cloud & Container Hardening, and Security Champions programs.
-- 🎓 **Education:** MSc in Cybersecurity — National College of Ireland.
+### 🛡️ Core Focus Areas
+- **Product & API Security:** Threat modeling, security design reviews, secure code analysis, and web/API penetration testing.
+- **DevSecOps & CI/CD Guardrails:** Embedding automated SAST, DAST, and supply chain controls directly into developer pipelines.
+- **Security Automation & AI Tooling:** Building event-driven triage workflows (`n8n`, `Jira`) and RAG-based internal security assistants to eliminate alert fatigue.
+- **Cloud & Container Hardening:** Securing AWS workloads, ECS, Docker, and Kubernetes with hardened base images and posture management.
+- **Developer Enablement:** Leading Security Champions programs and translating complex risk into actionable engineering habits.
 
 ---
 
-### 🛠️ Security & Engineering Tech Stack
+### 🧰 Security & Engineering Stack
+- **Languages & Frameworks:** Python, JavaScript, TypeScript, Java, Django, React
+- **AppSec & Supply Chain:** Burp Suite, OWASP ZAP, SonarQube, CodeQL (GHAS), Arnica, Endor, Mend
+- **Cloud, Containers & Automation:** AWS, ECS, Docker, Kubernetes, Wiz, Lacework, Jenkins, GitHub Actions, n8n
 
-**Languages & Frameworks**  
-![Python](https://shields.io)
-![JavaScript](https://shields.io)
-![TypeScript](https://shields.io)
-![Java](https://shields.io)
-![Django](https://shields.io)
-![React](https://shields.io)
+---
 
-**AppSec, Offensive & Supply Chain Tools**  
-![Burp Suite](https://shields.io)
-![OWASP](https://shields.io)
-![SonarQube](https://shields.io)
-![GitHub Advanced Security](https://shields.io)
-![Semgrep](https://shields.io)
+### ⚙️ How I Approach Security
+- **Shift from triage to prevention:** Fix root causes through architecture and secure defaults rather than chasing endless backlogs.
+- **Automate the repetitive:** Use orchestration and AI to handle noise so engineers only focus on real, high-impact risks.
+- **Meet developers where they work:** Deliver security guidance inside pull requests and Slack, not disconnected PDFs.
+- **Measure what matters:** Track mean time to remediation and attack surface reduction over raw alert counts.
 
-**Cloud, Containers & Automation**  
-![AWS](https://shields.io)
-![Docker](https://shields.io)
-![Kubernetes](https://shields.io)
-![Jenkins](https://shields.io)
-![GitHub Actions](https://shields.io)
-![n8n](https://shields.io)
+---
+
+### 📂 What You'll Find Here
+Practical security automation scripts, AppSec tooling prototypes, and code examples built to solve real-world engineering and vulnerability management challenges.
