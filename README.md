@@ -4,7 +4,7 @@
 ### Application Security Engineer | DevSecOps | Cloud & AI Security
 
 [![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Email](https://shields.io)](mailto:uppili194@gmail.com)
+[![Email](https://shields.io)](mailto:uppilis17@gmail.com)
 
 *Securing code from commit to cloud — helping fast-moving engineering teams build resilient software without slowing down.*
 
@@ -44,15 +44,3 @@
 ![Jenkins](https://shields.io)
 ![GitHub Actions](https://shields.io)
 ![n8n](https://shields.io)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Uppili's GitHub stats](https://vercel.app)
-![Top Langs](https://vercel.app)
-
-</div>
-
