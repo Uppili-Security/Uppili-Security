@@ -9,7 +9,8 @@ I focus on turning security from a manual bottleneck into a seamless part of how
 ### 🛡️ Core Focus Areas
 - **Product & API Security:** Threat modeling, security design reviews, secure code analysis, and web/API penetration testing.
 - **DevSecOps & CI/CD Guardrails:** Embedding automated SAST, DAST, and supply chain controls directly into developer pipelines.
-- **Security Automation & AI Tooling:** Building event-driven triage workflows (`n8n`, `Jira`) and RAG-based internal security assistants to eliminate alert fatigue.
+- **Security Automation & AI Tooling:** Building event-driven triage workflows, automated vulnerability routing, and AI-assisted security tools to eliminate manual overhead and alert fatigue.
+.
 - **Cloud & Container Hardening:** Securing AWS workloads, ECS, Docker, and Kubernetes with hardened base images and posture management.
 - **Developer Enablement:** Leading Security Champions programs and translating complex risk into actionable engineering habits.
 
