@@ -1,6 +1,6 @@
 ### Hi, I'm Uppili 👋
 
-Application Security Engineer with 8+ years of experience building scalable security programs across cloud-native platforms, web applications, and APIs in high-growth FinTech and AdTech environments.
+Application Security Engineer with 8+ years of experience building scalable security programs across cloud-native applications.
 
 I focus on turning security from a manual bottleneck into a seamless part of how engineers build—combining secure architecture, automated CI/CD guardrails, and AI-driven developer tooling so teams can ship quickly and safely.
 
