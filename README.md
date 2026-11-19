@@ -11,7 +11,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/uppili-srinivasa-raghavan/">
+  <a href="https://www.linkedin.com/in/uppili-raghavan/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/Uppili-Security">
@@ -86,7 +86,7 @@ The project explores:
 I'm always interested in discussions around Application Security, Product Security, Cloud Security, DevSecOps and AI Security.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/uppili-srinivasa-raghavan/">
+  <a href="https://www.linkedin.com/in/uppili-raghavan/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/Uppili-Security">
