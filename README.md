@@ -1,7 +1,7 @@
 
 <!-- Profile banner -->
 <p align="center">
-  <img src="./assets/profile-banner.png" width="100%" alt="Build Secure. Innovate Confidently. Ship Responsibly." />
+  <img src="./profile-banner.webp" width="100%" alt="Build Secure. Innovate Confidently. Ship Responsibly." />
 </p>
 
 <h1 align="center">Hi, I'm Uppili Srinivasa Raghavan 👋</h1>
